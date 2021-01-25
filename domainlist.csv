@@ -137,3 +137,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 166,0,gekko.spiceworks.com,1,1607909795,1607909795,"Added from Query Log"
 167,0,static.ziffdavis.com,1,1607909801,1607909801,"Added from Query Log"
 168,0,cooper.logs.roku.com,1,1609928346,1609928346,"Added from Query Log"
+170,0,nativesdks.mparticle.com,1,1611552187,1611552187,"Added from Query Log"
+171,0,mobile.launchdarkly.com,1,1611552209,1611552209,"Added from Query Log"
+172,0,nbcume.sc.omtrdc.net,1,1611552228,1611552228,"Added from Query Log"
