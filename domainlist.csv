@@ -140,3 +140,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 170,0,nativesdks.mparticle.com,1,1611552187,1611552187,"Added from Query Log"
 171,0,mobile.launchdarkly.com,1,1611552209,1611552209,"Added from Query Log"
 172,0,nbcume.sc.omtrdc.net,1,1611552228,1611552228,"Added from Query Log"
+173,0,b.scorecardresearch.com,1,1611645580,1611645580,"Added from Query Log"
+174,0,telemetry.malwarebytes.com,1,1611645594,1611645594,"Added from Query Log"
+175,0,g.msn.com,1,1611645611,1611645611,"Added from Query Log"
+176,0,beacons.extremereach.io,1,1611651205,1611651205,"Added from Query Log"
