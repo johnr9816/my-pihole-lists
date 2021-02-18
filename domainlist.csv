@@ -31,7 +31,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 42,0,192-168-15-201.78d6de8fa3f2477f981bf70c96dca7b5.plex.direct,1,1600906776,1600906776,
 43,0,192-168-15-201.5c5a3336dd444e16bf07e84d31c4f6bb.plex.direct,1,1600906831,1600906831,
 44,0,192-168-15-201.abcdefghijklmnopqrstuvwxyz012345.plex.direct,1,1600921196,1600921196,
-47,0,pubads.g.doubleclick.net,1,1600926085,1600939461,"Added from Query Log"
 48,0,dpm.demdex.net,1,1600926098,1600939467,"Added from Query Log"
 49,0,api2.branch.io,1,1600926105,1600939469,"Added from Query Log"
 51,0,87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com,1,1600926128,1600939472,"Added from Query Log"
@@ -53,7 +52,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 71,0,sdk.iad-01.braze.com,1,1600934766,1600934766,"Added from Query Log"
 72,0,securepubads.g.doubleclick.net,1,1600934776,1600934776,"Added from Query Log"
 73,0,gm.demdex.net,1,1600934783,1600934783,"Added from Query Log"
-74,0,pagead.l.doubleclick.net,1,1600934798,1600934798,"Added from Query Log"
 75,0,cbsinteractive.hb.omtrdc.net,1,1600934816,1600934816,"Added from Query Log"
 76,0,cdn.flashtalking.com,1,1600935453,1600935453,"Added from Query Log"
 77,0,stat.flashtalking.com,1,1600935464,1600935464,"Added from Query Log"
@@ -63,7 +61,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 81,0,tps.doubleverify.com,1,1600935513,1600935513,"Added from Query Log"
 82,0,s.amazon-adsystem.com,1,1600935523,1600935523,"Added from Query Log"
 83,0,pixel.adsafeprotected.com,1,1600935549,1600935549,"Added from Query Log"
-84,0,dart.l.doubleclick.net,1,1600935552,1600935552,"Added from Query Log"
 85,0,ag.innovid.com,1,1600935560,1600935560,"Added from Query Log"
 87,0,secure.insightexpressai.com,1,1600936118,1600936118,"Added from Query Log"
 88,0,secure-gl.imrworldwide.com,1,1600936126,1600936126,"Added from Query Log"
@@ -123,7 +120,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 151,1,wwkurpxddybxzd.jsr-tech.com,1,1601596140,1601596140,"Added from Query Log"
 152,0,s.youtube.com,1,1601798053,1601798053,"Added from Query Log"
 153,0,metrics.icloud.com,1,1601798091,1601798091,"Added from Query Log"
-154,0,tracker.samplicio.us,1,1601800461,1601800461,"Added from Query Log"
 155,0,use-tor.adsrvr.org,1,1601800493,1601800493,"Added from Query Log"
 156,0,api.taboola.com,1,1603081304,1603081304,"Added from Query Log"
 157,0,img.img-taboola.com,1,1603081307,1603081307,"Added from Query Log"
