@@ -140,3 +140,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 174,0,telemetry.malwarebytes.com,1,1611645594,1611645594,"Added from Query Log"
 175,0,g.msn.com,1,1611645611,1611645611,"Added from Query Log"
 176,0,beacons.extremereach.io,1,1611651205,1611651205,"Added from Query Log"
+177,0,www.camsoda.com,1,1613940387,1613940387,"Added from Query Log"
+178,0,www.livejasmin.com,1,1613940854,1613940854,"Added from Query Log"
+179,0,www.flirt4free.com,1,1613940932,1613940932,"Added from Query Log"
