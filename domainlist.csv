@@ -164,3 +164,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 211,0,pubads.g.doubleclick.net,1,1614925208,1614925208,"Added from Query Log"
 212,0,adservice.google.com,1,1614925212,1614925212,"Added from Query Log"
 213,0,cdn-gl.imrworldwide.com,1,1614925216,1614925216,"Added from Query Log"
+215,0,fp.msedge.net,1,1614930605,1614930605,"Added from Query Log"
+216,0,z.moatads.com,1,1614930624,1614930624,"Added from Query Log"
+217,0,csi.gstatic.com,1,1614930627,1614930627,"Added from Query Log"
