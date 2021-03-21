@@ -3,8 +3,6 @@
 192.168.15.203 john-3.jsr-tech.com
 192.168.1.1 edgerouter.jsr-tech.com
 192.168.1.4 ap01.jsr-tech.com
-192.168.1.2 switch01.jsr-tech.com
-192.168.1.5 switch02.jsr-tech.com
 192.168.14.1 kodak.jsr-tech.com
 192.168.15.204 jsr-drltpc01.jsr-tech.com
 172.22.0.10 xboxone.jsr-tech.com
@@ -15,3 +13,5 @@
 192.168.14.0 epson.jsr-tech.com
 192.168.1.10 start.jsr-tech.com
 172.19.1.1 edgerouter.csheetz3.com
+192.168.1.21 switch01.jsr-tech.com
+192.168.1.22 switch02.jsr-tech.com
