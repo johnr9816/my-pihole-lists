@@ -190,3 +190,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 239,0,simage2.pubmatic.com,1,1618629885,1618629885,"Added from Query Log"
 242,0,i.liadm.com,1,1618629896,1618629896,"Added from Query Log"
 243,0,trc-events.taboola.com,1,1618629936,1618629936,"Added from Query Log"
+244,0,t.teads.tv,1,1618633800,1618633800,"Added from Query Log"
+245,0,cds.taboola.com,1,1618633809,1618633809,"Added from Query Log"
+246,0,siteintercept.qualtrics.com,1,1618633816,1618633816,"Added from Query Log"
+247,0,bid.g.doubleclick.net,1,1618633819,1618633819,"Added from Query Log"
+248,0,assets.kochava.com,1,1618633824,1618633824,"Added from Query Log"
