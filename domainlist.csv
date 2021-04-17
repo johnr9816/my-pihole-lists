@@ -186,3 +186,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 234,0,alb.reddit.com,1,1618559091,1618559091,"Added from Query Log"
 235,0,cdn.taboola.com,1,1618559095,1618559095,"Added from Query Log"
 236,0,p.teads.tv,1,1618559101,1618559101,"Added from Query Log"
+237,0,trc.taboola.com,1,1618629878,1618629878,"Added from Query Log"
+239,0,simage2.pubmatic.com,1,1618629885,1618629885,"Added from Query Log"
+242,0,i.liadm.com,1,1618629896,1618629896,"Added from Query Log"
+243,0,trc-events.taboola.com,1,1618629936,1618629936,"Added from Query Log"
