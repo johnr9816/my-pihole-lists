@@ -260,3 +260,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 324,0,cdn3.doubleverify.com,1,1624008483,1624008483,"Added from Query Log"
 325,0,match.prod.bidr.io,1,1624008487,1624008487,"Added from Query Log"
 326,0,s-static.innovid.com,1,1624008491,1624008491,"Added from Query Log"
+327,0,bttrack.com,1,1624189170,1624189170,"Added from Query Log"
+328,0,server.cpmstar.com,1,1624189184,1624189184,"Added from Query Log"
