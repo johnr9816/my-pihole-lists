@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1600683190,1600683190,"Migrated from /etc/pihole/adlists.list",1624174204,81113,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1600683190,1600683190,"Migrated from /etc/pihole/adlists.list",1624779003,80473,0,1
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1600683190,1600683190,"Migrated from /etc/pihole/adlists.list",,0,0,4
 3,https://adaway.org/hosts.txthttps://v.firebog.net/hosts/AdguardDNS.txt,1,1600749149,1600749149,,,0,0,4
 4,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1600749207,1600749207,,1623569406,42284,0,2
