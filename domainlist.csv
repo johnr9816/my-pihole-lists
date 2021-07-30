@@ -266,3 +266,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 331,0,eb2.3lift.com,1,1624506132,1624506132,"Added from Query Log"
 332,0,pixel.advertising.com,1,1624508785,1624508785,"Added from Query Log"
 333,0,ad.atdmt.com,1,1627634395,1627634395,"Added from Query Log"
+334,0,pxl.connexity.net,1,1627641178,1627641178,"Added from Query Log"
+336,0,sync.intentiq.com,1,1627641184,1627641184,"Added from Query Log"
