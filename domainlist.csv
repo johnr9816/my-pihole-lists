@@ -168,7 +168,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 217,0,csi.gstatic.com,1,1614930627,1614930627,"Added from Query Log"
 218,0,stats.g.doubleclick.net,1,1616028604,1616028604,"Added from Query Log"
 219,0,sb.scorecardresearch.com.edgekey.net,1,1616028701,1616028701,"Added from Query Log"
-220,0,saa.paramountplus.com,1,1617935881,1627801103,
+220,0,saa.paramountplus.com,1,1617935881,1628042720,
 221,0,srtb.msn.com,1,1618029756,1618029756,"Added from Query Log"
 222,0,secure-dcr.imrworldwide.com,1,1618029768,1618029768,"Added from Query Log"
 223,0,analytics.twitter.com,1,1618029781,1618029781,"Added from Query Log"
@@ -269,3 +269,10 @@ id,type,domain,enabled,date_added,date_modified,comment
 334,0,pxl.connexity.net,1,1627641178,1627641178,"Added from Query Log"
 336,0,sync.intentiq.com,1,1627641184,1627641184,"Added from Query Log"
 337,0,pixel.rubiconproject.com,1,1627778649,1627778649,"Added from Query Log"
+339,2,(\.|^)saa\.paramountplus\.com$,1,1628042727,1628042727,
+342,0,cbs.hb-api.omtrdc.net,1,1628044324,1628044324,"Added from Query Log"
+343,0,7f077.v.fwmrm.net,1,1628044328,1628044328,"Added from Query Log"
+344,0,sync.crwdcntrl.net,1,1628044333,1628044333,"Added from Query Log"
+345,0,cms.analytics.yahoo.com,1,1628044336,1628044336,"Added from Query Log"
+346,0,ml314.com,1,1628044339,1628044339,"Added from Query Log"
+347,0,idsync.rlcdn.com,1,1628044342,1628044342,"Added from Query Log"
