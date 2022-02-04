@@ -142,8 +142,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 177,0,www.camsoda.com,1,1613940387,1613940387,"Added from Query Log"
 178,0,www.livejasmin.com,1,1613940854,1613940854,"Added from Query Log"
 179,0,www.flirt4free.com,1,1613940932,1613940932,"Added from Query Log"
-180,0,c.msn.com,1,1614855806,1629621947,
-181,0,c.bing.com,1,1614855809,1614855809,"Added from Query Log"
+180,0,c.msn.com,1,1614855806,1643976879,
+181,0,c.bing.com,1,1614855809,1643976869,
 182,0,bh.contextweb.com,1,1614924960,1614924960,"Added from Query Log"
 183,0,match.adsrvr.org,1,1614924965,1614924965,"Added from Query Log"
 184,0,cm.g.doubleclick.net,1,1614924968,1614924968,"Added from Query Log"
@@ -169,7 +169,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 218,0,stats.g.doubleclick.net,1,1616028604,1616028604,"Added from Query Log"
 219,0,sb.scorecardresearch.com.edgekey.net,1,1616028701,1616028701,"Added from Query Log"
 220,0,saa.paramountplus.com,1,1617935881,1628042720,
-221,0,srtb.msn.com,1,1618029756,1618029756,"Added from Query Log"
+221,0,srtb.msn.com,1,1618029756,1643976901,
 222,0,secure-dcr.imrworldwide.com,1,1618029768,1618029768,"Added from Query Log"
 223,0,analytics.twitter.com,1,1618029781,1618029781,"Added from Query Log"
 224,0,sp.analytics.yahoo.com,1,1618029788,1618029788,"Added from Query Log"
