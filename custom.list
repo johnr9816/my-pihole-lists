@@ -15,5 +15,5 @@
 172.19.1.2 switch0.csheetz3.com
 172.19.1.111 kodak.csheetz3.com
 192.168.0.100 jsr-techserver.corp.jsr-tech.com
-192.168.0.99 idrac6.jsr-tech.com
 192.168.0.101 traefik.jsr-tech.com
+192.168.0.101 start.jsr-tech.com
