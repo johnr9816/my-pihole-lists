@@ -285,3 +285,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 355,0,www.nutaku.com,1,1639000034,1639000034,"Added from Query Log"
 356,3,(\.|^)hurawatch\.at$,1,1649478471,1649478471,
 357,3,(\.|^)planningunavoidablenull\.com$,1,1649478619,1649478619,
+358,1,partners.thepennyhoarder.com,1,1653085155,1653085155,"Added from Query Log"
+359,1,int-classic-scout-production-1074780512.us-east-1.elb.amazonaws.com,1,1653085159,1653085159,"Added from Query Log"
+360,1,pantheon-systems.map.fastly.net,1,1653085165,1653085165,"Added from Query Log"

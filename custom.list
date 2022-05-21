@@ -17,3 +17,4 @@
 192.168.0.100 jsr-techserver.corp.jsr-tech.com
 192.168.0.101 traefik.jsr-tech.com
 192.168.0.101 start.jsr-tech.com
+192.168.0.99 idrac6.jsr-tech.com
