@@ -288,3 +288,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 358,1,partners.thepennyhoarder.com,1,1653085155,1653085155,"Added from Query Log"
 359,1,int-classic-scout-production-1074780512.us-east-1.elb.amazonaws.com,1,1653085159,1653085159,"Added from Query Log"
 360,1,pantheon-systems.map.fastly.net,1,1653085165,1653085165,"Added from Query Log"
+361,2,(\.|^)camsoda\.com$,1,1666408662,1666408662,
