@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1600683190,1600683190,"Migrated from /etc/pihole/adlists.list",1701593526,144149,13,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1600683190,1600683190,"Migrated from /etc/pihole/adlists.list",1702198325,144640,13,1
 4,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1600749207,1600749207,,1674360631,42536,0,2
 7,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1600749448,1600749448,,1674360632,9,0,2
 8,https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts,1,1600749485,1600749485,,1700384738,1709,2,2
